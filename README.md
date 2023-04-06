@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Prince-Abir
+- 👋 Hi, I’m Prince
 - 👀 I love coding
 - 🌱 I’m currently learning MVVM Architecture
 - 💞️ I’m looking to collaborate on learning something new!
-- 📫 How to reach me? just email me: mahmudabir112@gmail.com
+- 📫 How to reach me? just email me: pabir201061@bscse.uiu.ac.bd
