@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My Dhaka**
 
-- 🌱 I’m currently learning **Servlet & JSP**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Android & Related Field**
 
