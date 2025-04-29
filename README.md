@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Trilo**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Android & Web Software**
 
